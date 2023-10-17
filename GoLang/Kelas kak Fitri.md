@@ -13,3 +13,9 @@ import github
 - import github go-sql-driver hanya untuk mengakses/ sebagai driver saja
 - methode ping untuk membangun koneksi ke db, sql.Open hanya membuka db bukan untuk berkomunikasi
 - Saat query , setelah melakukan query harus di close.
+
+### Sesi 7
+#### Jenis - jenis arc
+
+1. DDD / clean architechture
+2. SQRS
