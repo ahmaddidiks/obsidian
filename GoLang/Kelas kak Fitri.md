@@ -19,3 +19,8 @@ import github
 
 1. DDD / clean architechture
 2. SQRS
+
+
+### Sesi 10
+sweger pake swago
+
