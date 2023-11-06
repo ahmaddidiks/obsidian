@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab2e349e8205fba0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Belajar MySQL PZN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoLang/Kelas kak Fitri.md",
+                "file": "Belajar MySQL PZN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GoLang/Kelas kak Fitri.md",
+                "file": "Belajar MySQL PZN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GoLang/Kelas kak Fitri.md"
+                "file": "Belajar MySQL PZN.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "649163874bd0cfc3",
+  "active": "ab2e349e8205fba0",
   "lastOpenFiles": [
-    "GoLang/Go Module.md",
     "GoLang/Kelas kak Fitri.md",
+    "Belajar MySQL PZN.md",
+    "GoLang/Go Module.md",
     "ROS2/ROS2.md",
     "GoLang",
     "ROS2/NAV2.md",
