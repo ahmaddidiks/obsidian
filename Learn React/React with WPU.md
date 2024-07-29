@@ -4,16 +4,16 @@ Core concept React
 - State
 
 ### Apa itu component
-- UI dipecah mejadi bagian2 kecil yang disebut komponen
-- Dengan begitu kita bisa membuat module komponen yang reuseable yang bisa di gabung2kan menjadi bagian yang lebih besar
+- UI dipecah menjadi bagian-bagian kecil yang disebut komponen
+- Dengan begitu kita bisa membuat module komponen yang re-useable yang bisa di gabung2kan menjadi bagian yang lebih besar
 - Misalkan komponen image, deskripsi, button ==> yang digabung menjadi bagian
 - Komponen pada React sejatinya adalah function
-- Nama function ditulis dengan awalan huruf Besar
+- nama function ditulis dengan awalan huruf Besar
 - Function mengembalikan elemen UI yang akan dijadikan komponen, ditulis dengan jsx
 - dipanggil sbg tag HTML saat dirender
 - Contohnya:
 
-```
+```js
 <script type="text/babel">
 	const container = document.getElementById('root')
 	const root = ReactDOM.createRoot(container);
@@ -41,8 +41,8 @@ Komponen selain reuseable, bisa dijadikan dinamis. Jika ingin membuat komoponen 
 ### Apa itu props
 - Mengirim properti sbg informasi ke komponen yang disebut Props.
 - Props  dianggap sbg obejct di komponen
-- Contoh:
-```
+- Contoh: 
+```js
 <script type="text/babel">
 	const container = document.getElementById('root')
 	const root = ReactDOM.createRoot(container);

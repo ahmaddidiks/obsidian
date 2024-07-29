@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8b704fa6acc7bc6b",
+        "id": "0d34650d870915c0",
         "type": "tabs",
         "children": [
           {
-            "id": "4bc23717d6100cfe",
+            "id": "56c2917e23b55a17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoLang/Go Module.md",
+                "file": "2024-07-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoLang/Go Module.md",
+                "file": "2024-07-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GoLang/Go Module.md",
+                "file": "2024-07-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GoLang/Go Module.md"
+                "file": "2024-07-29.md"
               }
             }
           }
@@ -146,20 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c19b9f87af07e08",
+  "active": "56c2917e23b55a17",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Sirobo ROS2.md",
+    "Sirobo ROS2",
     "2024-07-29.md",
     "MySQL/Belajar MySQL PZN.md",
-    "MySQL",
     "Learn React/React with WPU.md",
-    "GoLang/Go Module.md",
+    "ROS2/NAV2.md",
     "GoLang/Kelas kak Fitri.md",
+    "ROS2/ROS2.md",
+    "GoLang/Go Module.md",
+    "Untitled.canvas",
+    "MySQL",
     "Untitled",
     "Learn React",
-    "ROS2/ROS2.md",
     "GoLang",
-    "ROS2/NAV2.md",
     "ROS2.md",
     "ROS2/NAV2",
     "ROS2"
